@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Fuchsee
 - 👀 I’m interested in aeronautics
 - 🌱 I’m currently learning a lesson in love
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 💞️ I’m looking to collaborate on Python, data scraping, cleaning and visualization
 - ⚡ Fun fact: I got kicked a lot in the past few months
 
 <!---
